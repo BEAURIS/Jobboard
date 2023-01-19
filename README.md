@@ -1,8 +1,12 @@
 # jobboard
 
-This template should help get you started developing with Vue 3 in Vite.
+A job board built using Laravel and Vue.js. This web application allows users to create, view, and apply for job listings.
 
-## Recommended IDE Setup
+## Features
+
+User authentication and authorization
+Job listing CRUD functionality
+Job application submission
 
 [VSCode](https://code.visualstudio.com/)
 ## Customize configuration
